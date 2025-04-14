@@ -172,6 +172,7 @@ configuration file.
 |                                                                **_terminal_app_**                                                                 |          ![terminal_app](images/terminal_app.png)          |
 |                                                                 **_thelovelace_**                                                                 |          ![terminal_app](images/thelovelace.png)           |
 |                             **_tokyo_night_**<br>[source](https://github.com/zatchheems/tokyo-night-alacritty-theme)                              |           ![tokyo_night](images/tokyo_night.png)           |
+|                             **_tokyo_night_day_**<br>[source](https://github.com/folke/tokyonight.nvim)                                           |       ![tokyo_night_day](images/tokyo_night_day.png)       |
 |                          **_tokyo_night_storm_**<br>[source](https://github.com/zatchheems/tokyo-night-alacritty-theme)                           |     ![tokyo_night_storm](images/tokyo_night_storm.png)     |
 |                          **_tokyo_night_enhanced_**<br>[source](https://github.com/Venage5603/Tokyo-Night-Dark-Enhanced)                          | ![tokyo_night_enhanced](images/tokyo_night_enhanced.png)   |
 |                                 **_tomorrow_night_**<br>[source](https://github.com/ChrisKempson/Tomorrow-Theme)                                  |        ![tomorrow_night](images/tomorrow_night.png)        |
